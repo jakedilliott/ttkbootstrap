@@ -1,2 +1,2 @@
 # ttkbootstrap
-Python ttkbootstrap practice.
+Python ttkbootstrap sandbox.
